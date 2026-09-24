@@ -1,6 +1,7 @@
 # 第2次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
+- 學號：11515220
+- 姓名：呂宛芯
+- 信箱：twn0955464954@gmail.com
 
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
