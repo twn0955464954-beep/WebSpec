@@ -93,6 +93,15 @@
    - 各區塊主標題 (`.section-title`)：`clamp(28px, 4vw, 42px)`，行高 1.35。
    - 區塊眉標 (`.eyebrow`)：12px、字重 700、字距 `.08em`，前置粉紅愛心符號 `♡`。
    - 內文段落 (`.hero-lede`, `.section-sub`)：15px ~ 16px，行高 1.85。
+ **左欄圖片**
+
+- 檔案位置
+- `images\hero.jfif`
+- 使用 `<img>` 元素顯示
+- 圖片寬度：400px
+- 圖片高度：300px
+
+
 
 ---
 
@@ -152,13 +161,7 @@
 
 - **區塊屬性**：`<section class="hero" aria-labelledby="heroHeading">`
 - **外觀特徵**：淺粉米色漸層背景，右上方配置 600px 虛線裝飾圓環與三個浮動愛心符號（`@keyframes floatHeart`）。
-- **左欄圖片**
-
-- 檔案位置
-- `images\hero.jfif`
-- 使用 `<img>` 元素顯示
-- 圖片寬度：400px
-- 圖片高度：300px
+-
 
 - **左欄（品牌宣言與引導）**：
   - 雙徽章標籤：`♡ 日系女僕貼心互動`、`SCA 認證・高階莊園咖啡豆`。
