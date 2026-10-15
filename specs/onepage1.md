@@ -168,7 +168,7 @@
   - **右欄圖片**
 
 - 檔案位置
-- `images\hero.jfif`
+- `images\hero.jpg`
 - 使用 `<img>` 元素顯示
 - 圖片寬度：400px
 - 圖片高度：300px
