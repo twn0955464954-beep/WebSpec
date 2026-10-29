@@ -39,7 +39,6 @@
 
 - 檔案位置
 - `images\Gemini_Generated_Image_8j1kzm8j1kzm8j1k.jpg.jpg`
-- 使用 `<img>` 元素顯示
 - 圖片寬度：400px
 - 圖片高度：300px
 - **單檔自足設計**：樣式與腳本皆內嵌於 HTML 檔案內，無需額外建置或打包工具，即可直接透過瀏覽器或 GitHub Pages 本地部署與預覽。
