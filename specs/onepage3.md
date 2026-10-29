@@ -35,10 +35,13 @@
   - `Noto Sans TC`（清晰現代介面字體）
   - `Noto Serif TC`（精品人文標題襯線字體）
   - `Playfair Display`（高階歐文字型，用於英文字、數字與溫度標註）
+- 
+
 - **右欄圖片**
 
 - 檔案位置
-- `images\Gemini_Generated_Image_8j1kzm8j1kzm8j1k.jpg.jpg`
+- `images\hero.jpg`
+- 使用 `<img>` 元素顯示
 - 圖片寬度：400px
 - 圖片高度：300px
 - **單檔自足設計**：樣式與腳本皆內嵌於 HTML 檔案內，無需額外建置或打包工具，即可直接透過瀏覽器或 GitHub Pages 本地部署與預覽。
