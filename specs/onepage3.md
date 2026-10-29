@@ -35,7 +35,13 @@
   - `Noto Sans TC`（清晰現代介面字體）
   - `Noto Serif TC`（精品人文標題襯線字體）
   - `Playfair Display`（高階歐文字型，用於英文字、數字與溫度標註）
-- **純 CSS / 向量繪圖技術**：零外部點陣圖片依賴，全站插畫（女僕手沖濾架、玻璃分享壺、上升蒸氣愛心粒子、裝飾圓環）皆由 CSS `clip-path`、`radial-gradient`、`linear-gradient`、`border-radius` 與 `@keyframes` 動態繪製。
+- **右欄圖片**
+
+- 檔案位置
+- `images\Gemini_Generated_Image_8j1kzm8j1kzm8j1k.jpg.jpg`
+- 使用 `<img>` 元素顯示
+- 圖片寬度：400px
+- 圖片高度：300px由 CSS `clip-path`、`radial-gradient`、`linear-gradient`、`border-radius` 與 `@keyframes` 動態繪製。
 - **單檔自足設計**：樣式與腳本皆內嵌於 HTML 檔案內，無需額外建置或打包工具，即可直接透過瀏覽器或 GitHub Pages 本地部署與預覽。
 
 ---
