@@ -262,8 +262,9 @@
   1. **品牌簡介**：萌萃女僕手沖咖啡願景。
   2. **NAVIGATION 導覽**：品牌堅持、莊園選豆、手沖儀式、預約席次錨點連結。
   3. **VISIT US 門市資訊**：
-     - 地址：台北市大安區晴朗路 99 號 2 樓
-     - 電話：(02) 2345-6789
+     - 地址：407臺中市西屯區西墩里僑光路100號
+     - 地址動作：點擊 台中市西屯區僑光路 100 號 時，連結至 Google Maps：https://www.google.com/maps/search/?api=1&query=僑光科技大學
+     - 電話：(04)27016855
      - 營業時間：每日 11:00 — 21:00
      - 電子信箱：hello@moedrip.coffee
 - **底部列**：版權宣告與 `PREMIUM SPECIALTY COFFEE · BREWED WITH LOVE ♡`。
